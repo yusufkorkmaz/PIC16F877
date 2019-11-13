@@ -1,0 +1,20 @@
+Warning[215] C:\USERS\YUSUF KORKMAZ\DESKTOP\MPLAB PROJE\ODEV3\ODEV3.ASM 2 : Processor superseded by command line.  Verify processor symbol.
+Message[301] C:\PROGRAM FILES (X86)\MICROCHIP\MPASM SUITE\P16F877A.INC 33 : MESSAGE: (Processor-header file mismatch.  Verify selected processor.)
+Warning[207] C:\USERS\YUSUF KORKMAZ\DESKTOP\MPLAB PROJE\ODEV3\ODEV3.ASM 7 : Found label after column 1. (sagDIGIT)
+Warning[207] C:\USERS\YUSUF KORKMAZ\DESKTOP\MPLAB PROJE\ODEV3\ODEV3.ASM 8 : Found label after column 1. (solDIGIT)
+Warning[207] C:\USERS\YUSUF KORKMAZ\DESKTOP\MPLAB PROJE\ODEV3\ODEV3.ASM 9 : Found label after column 1. (TUR_DEGISKEN1)
+Warning[207] C:\USERS\YUSUF KORKMAZ\DESKTOP\MPLAB PROJE\ODEV3\ODEV3.ASM 10 : Found label after column 1. (TUR_DEGISKEN2)
+Warning[207] C:\USERS\YUSUF KORKMAZ\DESKTOP\MPLAB PROJE\ODEV3\ODEV3.ASM 11 : Found label after column 1. (gecikme1)
+Warning[207] C:\USERS\YUSUF KORKMAZ\DESKTOP\MPLAB PROJE\ODEV3\ODEV3.ASM 12 : Found label after column 1. (gecikme2)
+Warning[207] C:\USERS\YUSUF KORKMAZ\DESKTOP\MPLAB PROJE\ODEV3\ODEV3.ASM 14 : Found label after column 1. (w_temp)
+Warning[207] C:\USERS\YUSUF KORKMAZ\DESKTOP\MPLAB PROJE\ODEV3\ODEV3.ASM 15 : Found label after column 1. (status_temp)
+Warning[207] C:\USERS\YUSUF KORKMAZ\DESKTOP\MPLAB PROJE\ODEV3\ODEV3.ASM 16 : Found label after column 1. (pclath_temp)
+Message[305] C:\USERS\YUSUF KORKMAZ\DESKTOP\MPLAB PROJE\ODEV3\ODEV3.ASM 35 : Using default destination of 1 (file).
+Message[305] C:\USERS\YUSUF KORKMAZ\DESKTOP\MPLAB PROJE\ODEV3\ODEV3.ASM 40 : Using default destination of 1 (file).
+Message[302] C:\USERS\YUSUF KORKMAZ\DESKTOP\MPLAB PROJE\ODEV3\ODEV3.ASM 78 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\YUSUF KORKMAZ\DESKTOP\MPLAB PROJE\ODEV3\ODEV3.ASM 80 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\YUSUF KORKMAZ\DESKTOP\MPLAB PROJE\ODEV3\ODEV3.ASM 102 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\YUSUF KORKMAZ\DESKTOP\MPLAB PROJE\ODEV3\ODEV3.ASM 105 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\YUSUF KORKMAZ\DESKTOP\MPLAB PROJE\ODEV3\ODEV3.ASM 107 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[305] C:\USERS\YUSUF KORKMAZ\DESKTOP\MPLAB PROJE\ODEV3\ODEV3.ASM 129 : Using default destination of 1 (file).
+Message[305] C:\USERS\YUSUF KORKMAZ\DESKTOP\MPLAB PROJE\ODEV3\ODEV3.ASM 131 : Using default destination of 1 (file).
